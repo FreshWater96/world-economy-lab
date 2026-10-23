@@ -1,0 +1,1 @@
+{"name":"atlas-world-economy-lab","private":true,"type":"module","scripts":{"test":"node tests.mjs"}}
